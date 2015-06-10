@@ -15,3 +15,7 @@ Replace 403 with any of the following supported templates.
 - 404
 - 422
 - 500
+
+HTML licensed under MIT.
+
+Copyright [Siddharth Kannan](http://github.com/icyflame) 2015
