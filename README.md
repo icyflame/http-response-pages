@@ -11,11 +11,13 @@ Replace 403 with any of the following supported templates.
 
 ### Currently supported templates :-
 
+- 200
+- 201
 - 403
 - 404
 - 422
 - 500
 
-HTML licensed under MIT.
+HTML files licensed under MIT.
 
 Copyright [Siddharth Kannan](http://github.com/icyflame) 2015
