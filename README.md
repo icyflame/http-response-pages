@@ -11,12 +11,12 @@ Replace 403 with any of the following supported templates.
 
 ### Currently supported templates :-
 
-- 200
-- 201
-- 403
-- 404
-- 422
-- 500
+- [200](http://icyflame.github.io/http-response-pages/200.html)
+- [201](http://icyflame.github.io/http-response-pages/201.html)
+- [403](http://icyflame.github.io/http-response-pages/403.html)
+- [404](http://icyflame.github.io/http-response-pages/404.html)
+- [422](http://icyflame.github.io/http-response-pages/422.html)
+- [500](http://icyflame.github.io/http-response-pages/500.html)
 
 HTML files licensed under MIT.
 
